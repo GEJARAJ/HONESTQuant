@@ -1,0 +1,15 @@
+data_cache/
+__pycache__/
+modules/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.log
+.env
+.DS_Store
+Thumbs.db
+tunnel.py

@@ -1,0 +1,16 @@
+[theme]
+base="dark"
+primaryColor="#00E5FF"
+backgroundColor="#0B0E14"
+secondaryBackgroundColor="#111827"
+textColor="#F0F6FC"
+font="sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+fileWatcherType = "none"
+
+[runner]
+fastReruns = true
